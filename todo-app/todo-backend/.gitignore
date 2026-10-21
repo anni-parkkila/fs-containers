@@ -65,3 +65,6 @@ mongo_data/
 
 # REST Client requests
 requests/
+
+# Local Redis data
+redis_data/
